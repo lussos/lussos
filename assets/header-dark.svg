@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-  <title id="title">Lyudmil Dimitrov  Lusso</title>
-  <desc id="desc">Frontend developer, UI/UX, paint and motion. Dark theme banner.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
   <rect width="1280" height="320" fill="#12100e"/>
   <path fill="#e15a3a" d="M56 236c180-18 360 16 548 2 172-12 348-8 620 14v28c-272-18-450-8-624 8-186 16-368-16-544 2v-54z"/>
-  <text x="56" y="148" fill="#f3eee6" font-family="Georgia, 'Times New Roman', Times, serif" font-size="92" font-weight="600" letter-spacing="-2">Lusso</text>
+  <text x="56" y="148" fill="#f3eee6" font-family="Georgia, Times New Roman, Times, serif" font-size="92" font-weight="600" letter-spacing="-2">Lusso</text>
   <text x="56" y="198" fill="#a39b92" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" letter-spacing="4.5">FRONTEND DEVELOPER  ·  UI/UX  ·  PAINT &amp; MOTION</text>
   <circle cx="1188" cy="72" r="18" fill="#e15a3a"/>
 </svg>
