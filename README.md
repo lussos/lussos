@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.png">
-  <img alt="Lusso — frontend developer, UI/UX, paint and motion." src="./assets/header-light.png" width="100%">
-</picture>
-
 ## About me
 
 
